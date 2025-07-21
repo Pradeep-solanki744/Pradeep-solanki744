@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep solanki</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software engineering from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-solanki744&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-solanki744" /> </p>
@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **pradeepsolanki2703@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny😊**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
